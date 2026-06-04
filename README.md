@@ -23,10 +23,11 @@ France has become the leading AI hub in continental Europe: 750+ AI startups, fr
 ## Labs & Frontier Models
 
 - [Mistral AI](https://mistral.ai) — Paris-based frontier lab founded in 2023 by Arthur Mensch, Guillaume Lample, and Timothée Lacroix. Open-weight and proprietary LLMs (Mistral Large, Mixtral, Codestral, Pixtral), the Le Chat / Vibe assistant, and a developer platform. Europe's flagship AI lab.
+- [Hugging Face](https://huggingface.co) — The "GitHub of machine learning," co-founded by French entrepreneurs Clément Delangue, Julien Chaumond, and Thomas Wolf. Hosts 500k+ models; the central hub of open-source AI.
+- [AMI Labs](https://amilabs.xyz) — Founded 2026 by Yann LeCun. Builds world-model-based AI systems that learn from real-world sensory data, not text. CEO: Alexandre Lebrun. Raised $1.03B seed — the largest in European history. Paris HQ.
 - [H Company](https://hcompany.ai) — Founded 2023 in Paris. Builds "action" models and agents for enterprise automation (Runner H, Holo computer-use models). Raised a $220M seed — the largest in Europe at the time.
 - [Kyutai](https://kyutai.org) — Non-profit open-science lab backed by Xavier Niel, Rodolphe Saadé, and Eric Schmidt. Released Moshi, the first real-time speech-native dialogue model, fully open-source.
 - [LightOn](https://lighton.ai) — Founded 2016. Enterprise on-prem generative AI (Paradigm platform). First European GenAI company to IPO (Euronext Growth Paris: ALTAI, 2024).
-- [Hugging Face](https://huggingface.co) — The "GitHub of machine learning," co-founded by French entrepreneurs Clément Delangue, Julien Chaumond, and Thomas Wolf. Hosts 500k+ models; the central hub of open-source AI.
 - [Pleias](https://pleias.fr) — French-German lab training fully open LLMs for document processing. Coordinated Common Corpus, the largest fully open multilingual pretraining dataset (~2T tokens).
 
 ## Open-Source Models & Libraries
@@ -69,6 +70,7 @@ France has become the leading AI hub in continental Europe: 750+ AI startups, fr
 ## Communities & Events
 
 - [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) — Global heads-of-state AI summit hosted by France (Paris, 2025).
+- [AI Now Summit 2026](https://mistral.ai/news/ai-now-summit-2026/) — Mistral AI's flagship enterprise summit (Paris, May 2026). Key announcements: industrial AI partnerships with Airbus, BMW, and ASML; Vibe agent launch; Les Ulis data center.
 - [Station F](https://stationf.co) — The world's largest startup campus; home to AI programs and labs (Paris).
 - [VivaTech](https://vivatech.com) — Europe's largest tech conference, held annually in Paris.
 - [Paris ML Meetup](https://www.meetup.com/paris-machine-learning-applications-group/) — Long-running machine learning community meetup.
