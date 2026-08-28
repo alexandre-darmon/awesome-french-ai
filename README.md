@@ -46,6 +46,7 @@ France has become the leading AI hub in continental Europe: 750+ AI startups, fr
 - [Owkin](https://www.owkin.com) — AI for biotech and drug discovery, combining federated learning with medical research.
 - [Doctrine](https://www.doctrine.fr) — Legal intelligence platform; AI-powered search across French case law and legal data.
 - [Alan](https://alan.com) — Health insurance built around an AI-driven member experience.
+- [Perfecture](https://perfecture.fr) — AI assistant for French administrative procedures: monitors appointment availability across prefectures (titre de séjour, passport, driving licence) and alerts users the moment a slot opens.
 
 ## Research & Academia
 
