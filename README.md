@@ -73,6 +73,7 @@ France has become Europe's largest AI startup ecosystem — 1,100+ AI startups a
 - [Alan](https://alan.com) — Health insurance built around an AI-driven member experience.
 - [Animaj](https://www.animaj.com) — AI-native kids' media company (Pocoyo, Maya the Bee) with a proprietary animation pipeline. $85M raised (2025); backed by Google's AI Futures Fund.
 - [Alta Ares](https://www.altaares.com) — Founded 2024. AI-powered air defence: computer-vision guidance (Pixel Lock) and drone/missile interceptors. €50M Series A led by Air Street Capital (2026).
+- [objekto.io](https://objekto.io/en) — Founded 2026, Paris. AI that designs multi-part, print-ready 3D models as parametric CAD from a few words, a photo or a sketch, then has them made by an industrial 3D-printing workshop.
 
 ## Research & Academia
 
